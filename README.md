@@ -5,7 +5,7 @@ I'm a  frontend programmer with no commercial experience, looking for my first j
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> ​ Skills</b>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,redux,js,jquery,typescript,html,css,sass,bootstrap,pug,nodejs,express,figma,photoshop,vite,webpack,gulp,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,react,redux,jquery,nodejs,express,sass,bootstrap,pug,figma,photoshop,vite,webpack,gulp,git,vscode)](https://skillicons.dev)
 
 
 
